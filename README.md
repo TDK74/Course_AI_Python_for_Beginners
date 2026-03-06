@@ -3,7 +3,7 @@
 ### Acknowledgments
 The Python code is from the course "AI Python for Beginners" on DeepLearning.AI. The course content is available for free, while the certificate and graded assessments require a paid subscription.  
 For more details, visit:  
-< >
+<https://learn.deeplearning.ai/courses/ai-python-for-beginners/information>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
