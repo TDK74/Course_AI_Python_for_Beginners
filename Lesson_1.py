@@ -8,6 +8,7 @@ prompt = f"""
         Write a four line birthday poem for my friend {name}.
         The poem should be inspired by the first letter of my friend's name.
         """
+
 print_llm_response(prompt)
 
 ## ------------------------------------------------------ ##
@@ -27,6 +28,7 @@ prompt = f"""
         Write a set of four line birthday poems for my friends {friends_list}.
         The poems should be insipred by the first letter of each friend's name.
         """
+
 print(prompt)
 
 ## ------------------------------------------------------ ##
@@ -69,12 +71,10 @@ list_ages = [42, 28, 30]
 print(list_ages)
 
 ## ------------------------------------------------------ ##
-list_of_tasks = [
-                "Compose a brief email to my boss explaining that I will be late for tomorrow's "
+list_of_tasks = ["Compose a brief email to my boss explaining that I will be late for tomorrow's "
                 "meeting.",
                 "Write a birthday poem for Otto, celebrating his 28th birthday.",
-                "Write a 300-word review of the movie 'The Arrival'."
-                ]
+                "Write a 300-word review of the movie 'The Arrival'."]
 
 ## ------------------------------------------------------ ##
 task = list_of_tasks[0]
