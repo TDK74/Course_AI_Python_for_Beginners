@@ -30,7 +30,6 @@ celsius_to_fahrenheit(20)
 helper_functions.print_llm_response("What is the capital of France?")
 
 ## ------------------------------------------------------ ##
-
 response = get_llm_response("What is the capital of France?")
 
 ## ------------------------------------------------------ ##
